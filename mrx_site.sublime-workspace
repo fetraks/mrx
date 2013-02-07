@@ -1,0 +1,681 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"imag",
+				"background-image"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font-w",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"conta",
+				"CONTACT"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"c",
+				"contact"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"li",
+				"links"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"port",
+				"portfolio"
+			],
+			[
+				"b",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/home/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 702,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/_sobre_nos.html.erb",
+			"settings":
+			{
+				"buffer_size": 1081,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/home/_servicos.html.erb",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/home/_mod_negocio.html.erb",
+			"settings":
+			{
+				"buffer_size": 2957,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/home/_contato.html.erb",
+			"settings":
+			{
+				"buffer_size": 1284,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/home/_footer.html.erb",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 3428,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Zen Coding: Select between tags"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/0026 - FewWords/FewWords_Site/Index/script/grid.js",
+		"/D/0026 - FewWords/FewWords_Site/Index/script/script.js",
+		"/G/grid.js",
+		"/D/0016 - LolDesign/Lol_LandingPage/Lol Index/style.css",
+		"/D/0016 - LolDesign/Lol_LandingPage/Lol Index/index.html",
+		"/C/Users/Fernando/Dropbox/JabNews/JN_Site/style/application.css",
+		"/C/Users/Fernando/Dropbox/JabNews/JN_Site/index.html",
+		"/D/0048 - FewWords/FewWords_Site/Index/html5.js",
+		"/D/0048 - FewWords/FewWords_Site/Index/style.css",
+		"/C/Users/Fernando/Dropbox/JabNews/JN_Site/style/1152_24_6_6.css",
+		"/C/Users/Fernando/Dropbox/JabNews/JN_Site/style/grid.css",
+		"/D/0016 - LolDesign/Lol_LandingPage/Lol Index/lol_landingpage.sublime-workspace",
+		"/C/Users/Fernando/Desktop/Curso HTML 5/aula01/john-doe/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grid.png",
+			"                <li>\n                    <a href=\"#\">Cadastros Gerais</a>\n                </li>",
+			"#contact",
+			"div",
+			"                <p class=\"grid_5\">\n                    - Illbruck - Sonex Industrial Ltda\n                    - Servoil Derivados de Petróleo Ltda\n                    - Center Norte S/A CEA Participações Ltda\n                    - Otto Baungart Indústria Comércio S/A\n                </p>",
+			"place",
+			"IE9",
+			"overflow",
+			"post",
+			"positio",
+			"font",
+			"group",
+			"page",
+			";\n",
+			"portifolio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".contact"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/home/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/home/_sobre_nos.html.erb",
+					"settings":
+					{
+						"buffer_size": 1081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/home/_servicos.html.erb",
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/home/_mod_negocio.html.erb",
+					"settings":
+					{
+						"buffer_size": 2957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2768,
+								2768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/home/_contato.html.erb",
+					"settings":
+					{
+						"buffer_size": 1284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 759.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/home/_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "app/assets/stylesheets/application.css",
+					"settings":
+					{
+						"buffer_size": 3428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1036,
+								1036
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1035.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.528645833333,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Fernando/Desktop/Curso HTML 5/LolDesign/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
