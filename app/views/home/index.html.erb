@@ -1,37 +1,55 @@
 <div class="container_20">
-	<header class="grid_15 push_3">
-		<img src="assets/logo.png" alt="MRX Empresarial">
+  <header class="grid_15 push_3">
+    <%= image_tag "logo.png", alt: 'MRX Empresarial' %>
 
-		<ul>
-			<li class="selected grid_2 alpha">
-				<%=link_to "Sobre Nós", "#sobre_nos" %>
-			</li>
-			<li class="grid_2">
-				<%=link_to "Serviços", "#servicos" %>
-			</li>
-			<li class="links_line2 grid_3">
-				<%=link_to "Modelo de Negócio", "#mod_negocio" %>
-			</li>
-			<li class="grid_2 omega">
-				<%=link_to "Contato", "#contato"%>
-			</li>
-		</ul>
-	</header>
+    <ul class="menu">
+      <li class="selected grid_2 alpha">
+        <%=link_to "Sobre Nós", "#sobre_nos" %>
+      </li>
+      <li class="grid_2">
+        <%=link_to "Serviços", "#servicos" %>
+      </li>
+      <li class="links_line2 grid_3">
+        <%=link_to "Modelo de Negócio", "#mod_negocio" %>
+      </li>
+      <li class="grid_2 omega">
+        <%=link_to "Contato", "#contato"%>
+      </li>
+    </ul>
+  </header>
+</div>
+<div id="slider-menu">
+  <div class="container_20">
+    <div class="grid_15 push_3">
+      <%= image_tag "logo.png", alt: 'MRX Empresarial', class: 'grid_2 alpha' %>
+
+      <ul class="menu grid_12 push_1 omega">
+        <li class="selected grid_2 alpha">
+          <%=link_to "Sobre Nós", "#sobre_nos" %>
+        </li>
+        <li class="grid_2">
+          <%=link_to "Serviços", "#servicos" %>
+        </li>
+        <li class="links_line2 grid_3">
+          <%=link_to "Modelo de Negócio", "#mod_negocio" %>
+        </li>
+        <li class="grid_2 omega">
+          <%=link_to "Contato", "#contato"%>
+        </li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 <div id="content" class="container_20">
-	<%= render 'sobre_nos' %>
-
-	<%= render 'servicos' %>
-	
-	<%= render 'mod_negocio' %>
-
-	<%= render 'contato' %>	
-
+  <%= render 'sobre_nos' %>
+  <%= render 'servicos' %>
+  <%= render 'mod_negocio' %>
+  <%= render 'contato' %>
 </div>
 
 <div class="footer-wrapper">
-	<div class="container_20">
-		<p>© 2013 MRX Empresarial  |  Todos os Direitos Reservados<br>Desenvolvido por <a href="http://www.loldesign.com.br">LolDesign</a></p>
-	</div>
+  <div class="container_20">
+    <p>© 2013 MRX Empresarial  |  Todos os Direitos Reservados<br>Desenvolvido por <a href="http://www.loldesign.com.br">LolDesign</a></p>
+  </div>
 </div>

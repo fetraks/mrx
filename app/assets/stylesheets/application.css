@@ -88,23 +88,26 @@ header ul{
 	list-style: none;
 }
 
-header li{
+/*
+ *** MENU
+*/
+
+ul.menu li{
 	background: url(/assets/links_line1.png) no-repeat bottom left;
 	padding-bottom: 7px;
 }
 
-header li a{
+ul.menu li a{
 	color: #006633;
 }
 
-header .links_line2{
+ul.menu li.links_line2{
 	background: url(/assets/links_line2.png) no-repeat bottom left;
 }
 
-header .selected a{
+ul.menu li.selected a{
 	color: #ff3333; 
 }
-
 
 /*
 *** CONTENT
@@ -265,4 +268,14 @@ header .selected a{
 .footer-wrapper a{
 	color: #fff;
 	text-decoration: underline;
+}
+
+#slider-menu {
+  position: fixed;
+  background-color: #F4F4F4;
+  width: 100%;
+  top: 0px;
+  padding: 5px 10px;
+  z-index: 999;
+  display: none;
 }
