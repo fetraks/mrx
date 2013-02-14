@@ -12,22 +12,33 @@ $(document).ready(function(){
     activateLink(href);
     $(window).unbind('scroll');
 
-    $('body, html').animate({"scrollTop" : top}, function(){
-      $("#slider-menu").fadeIn();
-      $(window).scroll(scroll_function);
-    });
+    $('body, html').animate(
+      {"scrollTop" : top}, { duration: 1000,
+        specialEasing :{
+          height: 'easyInOutSine'
+        }, complete: function(){
+        toggle();
+        $(window).scroll(scroll_function);
+      }}
+    );
   });
 });
 
-function scroll_function(){
-  var top = $(this).scrollTop();
+function toggle(){
+  down() ? $("#slider-menu").fadeIn() : $("#slider-menu").fadeOut()
+}
 
-  if (top > 125) {
-    $("#slider-menu").fadeIn();
+function down() {
+  var top = $(this).scrollTop();
+  return top > 125;
+}
+
+function scroll_function(){
+  toggle();
+
+  if (down) {
     clearTimeout(func)
     var func = setTimeout(mustActive, 500);
-  }else {
-    $("#slider-menu").fadeOut();
   }
 }
 

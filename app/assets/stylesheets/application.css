@@ -200,6 +200,7 @@ ul.menu li.selected a{
 
 #contato{
 	border-left: solid 1px #ff9933;
+  margin-bottom: 100px;
 }
 
 #contato > h1{
