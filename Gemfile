@@ -26,6 +26,11 @@ group :production do
   gem "unicorn", "~> 4.6.0"
 end
 
+group :development do
+  gem 'mailcatcher'
+  gem 'foreman'
+end
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

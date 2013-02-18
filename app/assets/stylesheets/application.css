@@ -69,6 +69,17 @@ section h2{
 	color: #000;
 }
 
+.hide {
+  display: none;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+}
 
 /*
 *** HEADER

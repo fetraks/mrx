@@ -1,0 +1,2 @@
+web:   bundle exec thin start
+mail:  bundle exec mailcatcher -f

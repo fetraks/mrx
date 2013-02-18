@@ -21,31 +21,35 @@
 	</section>
 
 	<section class="titulo2 grid_12 push_3 alpha">
-		<h1>Formulário</h1>
+  <h1>Formulário</h1>
+  <div class="modal hide">
+    <h2>Modal</h2>
+    <h3>Modal</h3>
+  </div>
 
-		<form action="#" method="post">
+		<%= form_for(Mailer.new, url: contact_path) do |form| %>
 			<div class="grid_5 alpha">
 				<p>Nome.</p>
-				<input class="input" required type="text" name="name" id="nome">
+				<%= text_field_tag 'contact[name]', nil %>
 
 				<p>Telefone.</p>
-				<input class="input" required type="text" name="name" id="telefone">
+				<%= text_field_tag 'contact[phone]', nil %>
 
 				<p>E-mail.</p>
-				<input class="input" required type="email" name="name" id="e-mail">
+				<%= email_field_tag 'contact[email]', nil %>
 			</div>
 
 			<div class="grid_5">
 				<p>Título.</p>
-				<input class="input" required type="title" name="name" id="nome">
+				<%= text_field_tag 'contact[title]', nil, value: '' %>
 
 				<p>Mensagem.</p>
-				<textarea rows="2" cols="10" id="message" type="text"></textarea>
+				<%= text_area_tag 'contact[message]', nil %>
 			</div>
 
 			<div class="grid_1">
-				<input class="button" type="submit" value="Enviar">
+				<%= submit_tag 'Enviar', :disable_with => 'Enviando...' %>
 			</div>
-		</form>
+    <% end %>
 	</section>
 </div>	
