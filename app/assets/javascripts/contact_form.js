@@ -31,6 +31,11 @@ var ContactForm = function(obj){
       dataType: 'html',
       type:     'post',
 
+      beforeSend: function(data, textStatus){
+        that.bnt.val('Enviando...');
+        that.bnt.attr('disabled', 'disabled');
+      },
+      
       error: function(data, textStatus, errorThrown){
         that.openModalWithMessage("Sua mensagem não pode ser enviada!", "Verifique se todos os campos foram preenchidos.", true);
       },
@@ -38,6 +43,10 @@ var ContactForm = function(obj){
       success: function(data, statusText, xhr, $form){
         that.openModalWithMessage("Sua mensagem foi enviada com sucesso!", "Em breve entraremos em contato. Obrigado!", false);
         that.form.resetForm();
+      },
+
+      complete: function(data, textStatus){
+        that.bnt.removeAttr('disabled', '');
       }
     });
   },
